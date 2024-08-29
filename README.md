@@ -1,2 +1,2 @@
-# Automation-Katalon
-Membuat testcase automation menggunakan katalon untuk login page Facebook
+# Automation Katalon - Login Facebook Page
+Membuat testcase UI web automation menggunakan katalon untuk login page Facebook
