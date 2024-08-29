@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User melakukan login tanpa memasukkan email</description>
+   <name>TC-07</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ee00b33a-aee0-4763-8d95-8665f505a2ef</testCaseGuid>
+</TestCaseEntity>

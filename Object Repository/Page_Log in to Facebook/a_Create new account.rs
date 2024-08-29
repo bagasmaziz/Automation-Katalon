@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create new account</name>
+   <tag></tag>
+   <elementGuidId>02d2f470-2bd4-4c87-a7db-50b1961a13e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login_link']/div[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a._42ft._4jy0._16jx._4jy6._4jy2.selected._51sy</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8cbadce1-abc3-4276-8622-e4af2fa24742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>18038519-d530-4acd-ba50-e3c7537d9a0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_42ft _4jy0 _16jx _4jy6 _4jy2 selected _51sy</value>
+      <webElementGuid>6394a722-8a81-4107-aaf4-61f1a6f9b1d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/r.php?locale=en_GB&amp;display=page</value>
+      <webElementGuid>e1d4f3c7-b2ee-45e3-b2bf-75da688735e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new account</value>
+      <webElementGuid>f4d1a891-1ba6-42a2-8ab2-ea6c35a5308a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login_link&quot;)/div[@class=&quot;_xkt&quot;]/a[@class=&quot;_42ft _4jy0 _16jx _4jy6 _4jy2 selected _51sy&quot;]</value>
+      <webElementGuid>8ad81a0a-b1f4-420b-af0a-a74d51d7127e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login_link']/div[3]/a</value>
+      <webElementGuid>9f47a8ec-eeff-4dee-8129-3a93bbf5d1e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Create new account')]</value>
+      <webElementGuid>683278ce-b89d-493a-acb2-16d682d3c998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/following::a[1]</value>
+      <webElementGuid>17ad30b5-034d-4c02-a5e4-d5d053ff910f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgotten account?'])[1]/following::a[1]</value>
+      <webElementGuid>8d35b490-d46a-4a8f-8ee6-cf1b118aedb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English (UK)'])[1]/preceding::a[1]</value>
+      <webElementGuid>ba55be92-8a4b-48ef-a4e1-a18de1c284c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/preceding::a[1]</value>
+      <webElementGuid>14f22b5a-9c5d-4aea-8304-123569fe4f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create new account']/parent::*</value>
+      <webElementGuid>07b0d2dd-95b9-4e58-ac4b-1d51b9ce6853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/r.php?locale=en_GB&amp;display=page')]</value>
+      <webElementGuid>fff7c435-5f0e-4a87-86b6-ae8d85c9b44b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>2311225c-aca5-405b-9a3d-bf2c350ef31a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/r.php?locale=en_GB&amp;display=page' and (text() = 'Create new account' or . = 'Create new account')]</value>
+      <webElementGuid>cb97c4b8-e1ba-407b-960e-52f2311647ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

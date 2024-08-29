@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log in to Facebook__9lsa</name>
+   <tag></tag>
+   <elementGuidId>4e7a0bb8-bbd8-4b9a-ab20-c6c2ac43719c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='u_0_3_lg']/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._9lsa</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d84e3058-4a45-432e-8b83-23851078f127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_9lsa</value>
+      <webElementGuid>0dd0dd97-65f4-46fa-aa2b-6938a9d702ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;u_0_3_lg&quot;)/a[1]/div[@class=&quot;_9lsa&quot;]</value>
+      <webElementGuid>5249b104-4839-43de-b9f9-442cadb1a7cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='u_0_3_lg']/a/div</value>
+      <webElementGuid>48275a41-edeb-482a-a0d6-ce42839c4f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in to Facebook'])[2]/following::div[8]</value>
+      <webElementGuid>ae81e3d4-f7c6-4696-a4fa-986369bc1b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::div[2]</value>
+      <webElementGuid>27efb12a-e462-4b31-97a2-bf52dd762a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgotten account?'])[1]/preceding::div[3]</value>
+      <webElementGuid>2bad7de5-3f23-4e9b-9da3-073e3c12fa44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>6dde0222-6823-4c43-8186-c7670014ae56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

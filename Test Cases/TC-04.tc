@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User klik &quot;Create new account&quot;</description>
+   <name>TC-04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8723bbe7-9210-423d-963c-33adae56610a</testCaseGuid>
+</TestCaseEntity>

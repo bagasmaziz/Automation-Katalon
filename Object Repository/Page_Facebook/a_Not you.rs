@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Not you</name>
+   <tag></tag>
+   <elementGuidId>6249e8cc-e47b-437b-99f0-8b5f74157bea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='u_0_1_o/']/div/div[2]/div/table/tbody/tr/td[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>38ce0c87-5d78-4d1b-9987-014e074413b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login/notme/?notme_cuid=AYj_Uj-eGx1p8WfJDJjYzA_hKyEr1yL-v_iIxI92G9LmFIfRa3UucGnKN9mD5vzSqaw4nDaP1uQk5vlS5CPTiv9HKO55ul8bjkUB8OlRcBHKK7hBHNNPDGUJM_zCKOTY4TdU9BPH8qwZys0_23Gubc_mR6fbDtZzdehpoNFhdVw9dXH9ilOGBIRBimlKfuq7O8L9MvJnDUUwl-ytKYwSwiiGlZb-b5CDNzTxIYH1vwcL5N4YtEnEoZE46hS2rgF785HqTgtPMgfBRQoWpls8rFtX&amp;flow=recovery&amp;account_finder_source=account_recovery</value>
+      <webElementGuid>37b98dd1-dd06-426e-b8d3-4d6793b8b033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Not you?</value>
+      <webElementGuid>a51928d7-abea-4d71-b281-2c87dd623379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;u_0_1_o/&quot;)/div[@class=&quot;mtl mbm ptm uiInterstitial _aklr uiInterstitialLarge uiBoxWhite&quot;]/div[@class=&quot;phl ptm uiInterstitialContent&quot;]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/div[@class=&quot;mvm _akly&quot;]/a[1]</value>
+      <webElementGuid>08aba0b8-99bf-4736-b7d6-1f58d1694c24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='u_0_1_o/']/div/div[2]/div/table/tbody/tr/td[2]/div/a</value>
+      <webElementGuid>5714dc9c-1a57-4055-8aa2-35272ce423de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Not you?')]</value>
+      <webElementGuid>fde7daf2-bf5e-4f78-9031-c0904422ace0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook user'])[1]/following::a[1]</value>
+      <webElementGuid>54e33e62-312c-46b2-bbc3-dadbc99501d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bagas Dwi Primoes'])[1]/following::a[1]</value>
+      <webElementGuid>eeabf0d5-4ff0-4d24-a600-0438a7fab6d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try another way'])[1]/preceding::a[1]</value>
+      <webElementGuid>a8f8402e-c2c2-4e2f-b301-0e79266937b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::a[2]</value>
+      <webElementGuid>08a63b83-a09f-48b6-abc1-6d157b2ab4b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Not you?']/parent::*</value>
+      <webElementGuid>5d356d7a-9c60-4e13-9007-b4285e9ad6eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/login/notme/?notme_cuid=AYj_Uj-eGx1p8WfJDJjYzA_hKyEr1yL-v_iIxI92G9LmFIfRa3UucGnKN9mD5vzSqaw4nDaP1uQk5vlS5CPTiv9HKO55ul8bjkUB8OlRcBHKK7hBHNNPDGUJM_zCKOTY4TdU9BPH8qwZys0_23Gubc_mR6fbDtZzdehpoNFhdVw9dXH9ilOGBIRBimlKfuq7O8L9MvJnDUUwl-ytKYwSwiiGlZb-b5CDNzTxIYH1vwcL5N4YtEnEoZE46hS2rgF785HqTgtPMgfBRQoWpls8rFtX&amp;flow=recovery&amp;account_finder_source=account_recovery')]</value>
+      <webElementGuid>b9d8bfee-1ad5-4358-9335-03f599d514b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>6f94458d-3266-43c0-852e-3714852c1c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/login/notme/?notme_cuid=AYj_Uj-eGx1p8WfJDJjYzA_hKyEr1yL-v_iIxI92G9LmFIfRa3UucGnKN9mD5vzSqaw4nDaP1uQk5vlS5CPTiv9HKO55ul8bjkUB8OlRcBHKK7hBHNNPDGUJM_zCKOTY4TdU9BPH8qwZys0_23Gubc_mR6fbDtZzdehpoNFhdVw9dXH9ilOGBIRBimlKfuq7O8L9MvJnDUUwl-ytKYwSwiiGlZb-b5CDNzTxIYH1vwcL5N4YtEnEoZE46hS2rgF785HqTgtPMgfBRQoWpls8rFtX&amp;flow=recovery&amp;account_finder_source=account_recovery' and (text() = 'Not you?' or . = 'Not you?')]</value>
+      <webElementGuid>04431712-ab9f-4a2f-acce-9fdb4f6249e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

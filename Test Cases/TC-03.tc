@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User klik button &quot;Forgotten account?&quot;</description>
+   <name>TC-03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f49d332-bef8-4cb3-be52-f4c42fce84ed</testCaseGuid>
+</TestCaseEntity>
